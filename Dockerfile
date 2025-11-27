@@ -8,3 +8,4 @@ COPY apks /apks
 EXPOSE 80
 
 CMD ["python", "server.py"]
+
